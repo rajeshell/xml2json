@@ -3,13 +3,13 @@ Simple and Generic XML to JSON Convertor
 
 
 Installation 
-
+```
 go get github.com/rajeshell/xml2json
-
+```
 
 
 Example usage: 
-<code>
+```
 package main
 
 import (
@@ -66,4 +66,4 @@ func main() {
 
 	fmt.Println(string(jsonBytes))
 }
-</code>
+```
