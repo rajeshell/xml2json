@@ -1,5 +1,5 @@
 # xml2json
-Simple and Generic XML to JSON Convertor
+Simple and Generic XML to JSON Convertor. No need to Define Struct for all XML file it will automatically convert XML Byte Array to JSON Byte Array.
 
 
 Installation 
